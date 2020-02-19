@@ -6,7 +6,7 @@ This was a set problem as part of a Machine Learning For Physicists seminar I at
 -------
 
 The actual formula for the invariant mass of a Z-boson resulting from Z -> ee- collisions is know
-![Z boson invariant mass eq](Equation1.png)
+![Z boson invariant mass eq](equation1.PNG)
 
 But for the purposes of this project, the aim was to see if a ML algorithm could independently learn to predict the mass without knowledge of this formula.
 The raw data was taken from the CERN website at opendata.web.cern.ch/record/545 , and split into two, 9/10ths of the data going into a training dataset, and the remaining 1/10th being kept hidden from the algorithm for testing purposes
