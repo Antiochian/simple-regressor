@@ -5,7 +5,7 @@ This was a set problem as part of a Machine Learning For Physicists seminar I at
 
 -------
 
-The actual formula for the invariant mass of a Z-boson resulting from Z -> ee- collisions is know
+The actual formula for the invariant mass of a Z-boson resulting from Z -> ee- collisions is known:
 ![Z boson invariant mass eq](equation1.PNG)
 
 But for the purposes of this project, the aim was to see if a ML algorithm could independently learn to predict the mass without knowledge of this formula.
